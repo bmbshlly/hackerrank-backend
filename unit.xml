@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.0470" tests="4" failures="0">
+  <testsuite name="Root Suite" timestamp="2021-10-25T18:11:54" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="express_basics" timestamp="2021-10-25T18:11:54" tests="4" file="/Users/pluto/Documents/work/local/07d92a00-aab7-4f97-bcdf-074dc26299e5/test/index.spec.js" time="0.0470" failures="0">
+    <testcase name="express_basics Should return 200 for /projects" time="0.0270" classname="Should return 200 for /projects">
+    </testcase>
+    <testcase name="express_basics Should return 200 for /projects/active" time="0.0040" classname="Should return 200 for /projects/active">
+    </testcase>
+    <testcase name="express_basics Should return a 404 if the requested id is not present in data" time="0.0040" classname="Should return a 404 if the requested id is not present in data">
+    </testcase>
+    <testcase name="express_basics Should return the correct data with status 200" time="0.0120" classname="Should return the correct data with status 200">
+    </testcase>
+  </testsuite>
+</testsuites>
